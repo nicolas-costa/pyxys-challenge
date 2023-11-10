@@ -1,0 +1,50 @@
+
+.main-row {
+  margin: 0 90px 0 90px;
+
+  .post {
+    figure {
+      img {
+        width: 100%;
+      }
+    }
+
+    .title {
+      margin-top: 25px;
+      font-family: Martel-Bolder;
+      font-size: 24px;
+      color: #2F4850;
+    }
+
+    .summary {
+      font-family: Rubik-Regular;
+      font-size: 18px;
+      color: #666666;
+    }
+
+    .author {
+      font-family: Roboto-Thin;
+      font-size: 13px;
+    }
+
+    .taxonomy-category {
+      background: #3583F0;
+      padding: 5px 15px;
+      color:white;
+      font-family: Martel-Light;
+      margin-bottom: 15px;
+
+      a {
+        text-decoration: none;
+        color: white;
+        font-size: 13px;
+      }
+    }
+  }
+
+  hr {
+    color: #EFEFEF;
+  }
+}
+
+

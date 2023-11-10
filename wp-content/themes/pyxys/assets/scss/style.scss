@@ -1,0 +1,11 @@
+//@import 'partials/variables';
+
+@import '../node_modules/bootstrap/scss/bootstrap-reboot';
+@import '../node_modules/bootstrap/scss/bootstrap-grid';
+@import '../node_modules/bootstrap/scss/bootstrap-utilities';
+
+@import 'scss/mixins/fonts';
+
+@import 'scss/layout/footer';
+@import 'scss/layout/header';
+@import 'scss/layout/main';
